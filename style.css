@@ -17,3 +17,29 @@ h1, p {
     height: 100vh;
     object-fit: cover;
 }
+
+p {
+    word-wrap: break-word;
+}
+.align-left,
+.align-right {
+    max-width: 800px;
+    padding: 20px;
+    display:inline-block;
+}
+
+.align-left- {
+    margin-left: 20px;
+    text-align: left;
+    float: left;
+}
+
+.align-right {
+    margin-right: 20px;
+    text-align: right;
+    float: right;
+}
+
+p {
+    word-wrap: break-word;
+}
